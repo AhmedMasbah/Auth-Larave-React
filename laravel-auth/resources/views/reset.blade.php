@@ -1,0 +1,1 @@
+Click <a href="http://127.0.0.1:3000/reset/{{$token}}">Here</a> to reset you password
